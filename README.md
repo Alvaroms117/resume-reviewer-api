@@ -32,4 +32,4 @@ API RESTful desarrollada con **Java** y **Spring Boot** que integra la API de **
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/TU-USUARIO/resume-reviewer-api.git](https://github.com/TU-USUARIO/resume-reviewer-api.git)
+   git clone https://github.com/Alvaroms117/resume-reviewer-api.git
